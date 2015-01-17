@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            Site Title
+title:            Alleo Indong
 locale:           en_US
 url:              
 
@@ -26,13 +26,13 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
-  avatar: bio-photo.jpg
-  bio: "Describe your self."
-  email: 
+  name: Alleo Indong
+  avatar: https://avatars1.githubusercontent.com/u/1896053
+  bio: "A web developer who lurks into new technologies and exciting stuffs"
+  email: freedom_war550@live.com.ph
   disqus-shortname: 
-  twitter: #username
-  facebook: #username
+  twitter: #alleoindong
+  facebook: #aindong
   google:
     plus: #username
     analytics: 
@@ -40,8 +40,8 @@ owner:
     ad-client: 
     ad-slot: 
   bing-verify: 
-  github: #username
-  stackoverflow: #http://stackoverflow.com/users/123456/username
+  github: #aindong
+  stackoverflow: #http://stackoverflow.com/users/3792278/alleo-indong
   linkedin: #username
   instagram: #username
   lastfm: #username
