@@ -11,15 +11,6 @@ image:
   creditlink: http://www.girliemac.com
 ---
 
-<section id="table-of-contents" class="toc">
-  <header>
-    <h3>Overview</h3>
-  </header>
-<div id="drawer" markdown="1">
-*  Auto generated table of contents
-{:toc}
-</div>
-</section><!-- /#table-of-contents -->
 
 This is just so awesome, I have to learn this first so I can start writing and sharing things and learn along the way.
-This is my post and I was testing it. :)
+This is my post and I was testing it. This is Blogging like a hacker/pro, and I'm currently loving it. :)
