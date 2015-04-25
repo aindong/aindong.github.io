@@ -14,7 +14,8 @@ app.controller('MainController', ['$scope', '$http', function ($scope, $http) {
             var lat = position.coords.latitude;
             var long = position.coords.longitude;
             console.log('lat ' + lat + ' long ' + long);
-            var promise = $http.get('http://api.openweathermap.org/data/2.5/forecast/daily?id=1682812&mode=json&units=metric&cnt=7');
+
+            var promise = $http.get('http://api.openweathermap.org/data/2.5/forecast/daily?lat=' + lat + '&lon=' + long + '&mode=json&units=metric&cnt=7');
 
             promise.then(function(res) {
                 console.log(res.data);
