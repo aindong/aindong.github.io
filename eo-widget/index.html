@@ -66,10 +66,8 @@
 </div>
 
 <script>
-    $('iframe').load(function() {
-        $(this).contents().find('form').submit(function() {
-            return false;
-        });
+    $('document').on('submit', '#onlinebookingingwidget form', function(e) {
+        console.log(e);
     });
 </script>
 
